@@ -86,7 +86,7 @@
     "remotedev-monitor-components": "^0.0.5",
     "remotedev-serialize": "^0.1.8",
     "remotedev-slider": "^1.1.1",
-    "remotedev-utils": "0.0.1",
+    "remotedev-utils": "0.1.6",
     "terser-webpack-plugin": "^1.1.0"
   }
 }
